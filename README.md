@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/99784845/212969713-8daa6213-7721-41cf-bdf0-6cc2c5bebada.png" alt="my banner" width="1012" height="250">
+
 <h1 align="center">Hi 👋, I'm Hemant Singh</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
